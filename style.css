@@ -11,6 +11,9 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
+  background-image: url(https://images.unsplash.com/photo-1562575214-da9fcf59b907?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80);
+  background-size: cover;
+  background-position: center;
 }
 
 div {
